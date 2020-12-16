@@ -1,0 +1,4 @@
+CI: continues integration.
+CID: continues integration and development.
+surge.sh will automatically detect changes into 
+our code and deploy it on our website.
