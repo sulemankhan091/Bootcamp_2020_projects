@@ -36,4 +36,4 @@ jobs:
         
       # automatic deploying on surge
        name: deploying using surge
-       run: surge ./ tawdry-health.surge.sh --token $ {{ secrets.MY_SURGE_TOKEN }}
+       run: surge ./ tawdry-health.surge.sh -- token $ {{ secrets.MY_SURGE_TOKEN }}
