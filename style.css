@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(
+        to right,
+        pink,
+        coral
+    );
+    font-family: jost;
+    color: white;
+}
