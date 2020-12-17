@@ -1,6 +1,5 @@
 body{
-    background-image: url('https://unsplash.com/photos/zTYUEGibBjg');
-    position: absolute;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: teal;
+    font-family: sans-serif;
     color: white;
 }
