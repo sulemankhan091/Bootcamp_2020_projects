@@ -1,9 +1,6 @@
 body{
-    background: linear-gradient(
-        to right,
-        pink,
-        coral
-    );
-    font-family: jost;
+    background-image: url('https://unsplash.com/photos/zTYUEGibBjg');
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
