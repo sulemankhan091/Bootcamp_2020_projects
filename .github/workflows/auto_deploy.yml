@@ -15,6 +15,6 @@ jobs:
       - name: Install Surge
         run: npm install -g surge
       - name: Run surge
-        run: surge ./ dapper-color.surge.sh --token ${{ secrets.MY_SURGE_TOKEN }}
+        run: surge ./ muhammadsuleman.surge.sh --token ${{ secrets.MY_SURGE_TOKEN }}
 
           
