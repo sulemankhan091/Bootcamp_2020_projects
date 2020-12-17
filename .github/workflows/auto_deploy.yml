@@ -1,5 +1,5 @@
 # This is a basic workflow to help you get started with Actions
-
+# this will be used to auto-deploy on surge.sh
 name: bootcamp_2020_projects
 
 # Controls when the action will run. 
