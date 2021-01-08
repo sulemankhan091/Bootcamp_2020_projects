@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+.main_section{
+    margin: 0 100px;
+}
+
+.intro {
+    text-align: center;
+    color: white;
+    background-color: rgb(3, 3, 71);
+    height: 500px;
+    padding: 30px 0px;
+}
+.intro h1,h3{
+    font-family: caveat;
+    font-size: 48pt;
+}
