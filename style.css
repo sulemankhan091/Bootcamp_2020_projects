@@ -3,13 +3,14 @@
 }
 
 .main_section{
-    margin: 0 100px;
+    margin: 0 30px;
 }
 
 .intro {
+    margin-top: 5px;
     text-align: center;
     color: white;
-    background-color: rgb(3, 3, 71);
+    background-color: rgb(29, 7, 7);
     height: 500px;
     padding: 30px 0px;
 }
